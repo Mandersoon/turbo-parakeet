@@ -7,4 +7,3 @@ Set-ExecutionPolicy Unrestricted -Scope Process
 ## Invoke-Expression $ScriptPath\Scripts\ApplicationInstall.ps1
 Invoke-Expression $ScriptPath\Scripts\WindowsSettings.ps1
 ## Invoke-Expression $ScriptPath\Scripts\ApplicationSettings.ps1
-flkjhdzfxlkgjhdflkj
