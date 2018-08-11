@@ -3,10 +3,7 @@
 <#
 Windows Update
     Change Settings
-    Install Updates via PS
-
-    PS-ImportModule -Name .\Modules\PSWindowsUpdate -Verbose
-    
+    Install Updates via PS    
 #>
 
-
+PS-ImportModule -Name .\Modules\PSWindowsUpdate -Verbose
