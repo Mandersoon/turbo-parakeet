@@ -6,4 +6,5 @@ Windows Update
     Install Updates via PS    
 #>
 
-PS-ImportModule -Name .\Modules\PSWindowsUpdate -Verbose
+Save-Module -Name PSWindowsUpdate -Path .\Modules\PSWindowsUpdate
+Import-Module -Name .\Modules\PSWindowsUpdate
